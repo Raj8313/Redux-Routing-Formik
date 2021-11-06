@@ -11,3 +11,11 @@ Redux flow chart
 7. middleware folder-> middleware.js
 
 Redux workflow App.js ->middleware.js->reducer.js
+
+---
+
+# Note : No Formik in this repo.
+
+---
+
+![](./ReduxRouting.PNG)
